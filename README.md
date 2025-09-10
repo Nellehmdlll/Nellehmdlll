@@ -22,39 +22,23 @@
 
 ## 🚀 Projets phares
 
-### 🏛️ [Plateforme de gestion des décorations – Grande Chancellerie du Burkina]  
-Digitalisation complète du système de gestion des décorations (candidatures, validations, cérémonies)  
-🔹 Intégration d’une **API de paiement**  
-🔹 Modules RH, effectifs, gestion du personnel  
+J'ai travaillé sur plusieurs projets notamment des solutions de gestion RH, de stock, des solutions de paiements , des solutions applicatives adaptés à des contexte particuliers .
+*Technologies utilisées : Django • DRF • Angular • PostgreSQL • Docker*
 
-### 💳 [Cashless Payment System]  
-Plateforme Django de paiement dématérialisé  
-🔹 Gestion des retraits & dépôts  
-🔹 API sécurisée avec **Django REST Framework**  
-
-### 💊 [Gestion de stock pharmaceutique]  
-Suivi des produits, mouvements et alertes de stock en Django  
-
-### 👥 [RH Platform]  
-Gestion du personnel, stages, reconversions & administration du personnel  
-
-### 🔧 [Consulting & Déploiement]  
-Déploiements maîtrisés avec **Apache/Nginx + Gunicorn + VPS**  
-Intégration CI/CD et bonnes pratiques DevOps  
 
 ---
 
 ## 📊 GitHub Stats
-![Rahimah's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagodev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagodev&layout=compact&theme=radical)
+![Rahimah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nellehmdlll&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nellehmdlll&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Me trouver ailleurs
-- 💼 [LinkedIn – Rahimah Sawadogo](https://www.linkedin.com/in/rahimah-sawadogo)  
-- 📧 alg@gmail.com  
-- 🐙 [GitHub @lagodev](https://github.com/lagodev)  
+- 💼 [LinkedIn – Rahimah Sawadogo](https://www.linkedin.com/in/rahimah%E2%9C%A8/)  
+- 📧 sdgrahima@gmail.com  
+- 🐙 [GitHub @lagodev](https://github.com/Nellehmdlll)  
 
 ---
 
-✨ *"Le prochain Facebook dort peut-être dans un repo Django encore non pushé."*  
+✨ *"Le prochain Facebook dort peut-être dans un repo Django encore non pushé hihiii."*  
