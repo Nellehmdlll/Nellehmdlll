@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,7 +38,7 @@ J'ai travaillé sur plusieurs projets notamment des solutions de gestion RH, de 
 ## 🌍 Me trouver ailleurs
 - 💼 [LinkedIn – Rahimah Sawadogo](https://www.linkedin.com/in/rahimah%E2%9C%A8/)  
 - 📧 sdgrahima@gmail.com  
-- 🐙 [GitHub @lagodev](https://github.com/Nellehmdlll)  
+- 🐙 [GitHub @Nellehmdlll](https://github.com/Nellehmdlll)  
 
 ---
 
