@@ -3,7 +3,7 @@
 **Django Developer | Backend & API | Consultant IT**  
 
 🔹 Je construis des applications **Django solides, scalables et vivantes**.  
-🔹 Je transforme des idées en plateformes concrètes : paiements 💳, RH 👥, gestion de stock 💊, digitalisation d’administrations 🏛️.  
+🔹 Je transforme des idées en plateformes concrètes : paiements 💳, RH, gestion de stock, digitalisation d’administrations 🏛️.  
 🔹 Mon terrain de jeu : **Python + Django + PostgreSQL/MySQL + Docker + Nginx/Apache**.  
 
 ---
