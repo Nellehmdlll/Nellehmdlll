@@ -1,8 +1,8 @@
 # 👩🏽‍💻 Rahimah Sawadogo  
 
-**Django Developer | Backend & API | Consultant IT**  
+**Django Developer | Backend & API | Consultant IT |Angular for Frontend**  
 
-🔹 Je construis des applications **Django solides, scalables et vivantes**.  
+🔹 Je construis des applications **Django solides, scalables et vivantes**.   
 🔹 Je transforme des idées en plateformes concrètes : paiements 💳, RH, gestion de stock, digitalisation d’administrations 🏛️.  
 🔹 Mon terrain de jeu : **Python + Django + PostgreSQL/MySQL + Docker + Nginx/Apache**.  
 
